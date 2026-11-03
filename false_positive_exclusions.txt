@@ -1,9 +1,8 @@
+APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,9 +19,11 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -47,3 +48,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
