@@ -1,11 +1,12 @@
+APClips
 Airliners
-AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
 Codolio
+DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
@@ -21,6 +22,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -34,9 +36,12 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
 mercadolivre
+opennet
 phpRU
 social.tchncs.de
+xHamster
