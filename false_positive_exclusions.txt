@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -10,15 +11,14 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 Linktree
-Minecraft
 ObservableHQ
-Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -42,6 +42,8 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
+xHamster
