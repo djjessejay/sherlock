@@ -3,8 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Championat
+Audiojungle
 Chatujme.cz
 Codolio
 DeviantArt
@@ -15,10 +14,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
+LibraryThing
 Linktree
+Minecraft
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
 Rarible
 Realmeye
@@ -27,6 +27,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
@@ -42,8 +43,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
-xHamster
