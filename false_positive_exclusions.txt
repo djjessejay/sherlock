@@ -2,9 +2,10 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Audiojungle
 Chatujme.cz
 Codolio
+Crevado
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -17,6 +18,7 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -27,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
